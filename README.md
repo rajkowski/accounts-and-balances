@@ -8,3 +8,4 @@ This project has documentation and public issues for support.
 
 - [Read the Documentation](https://github.com/rajkowski/accounts-and-balances/wiki)
 - [Submit Issues](https://github.com/rajkowski/accounts-and-balances/issues)
+- [View on App Store](https://apps.apple.com/us/app/accounts-balances/id6746949741) - iPhone, iPad, macOS
