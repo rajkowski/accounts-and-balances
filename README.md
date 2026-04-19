@@ -1,7 +1,7 @@
 # Accounts and Balances
 
 <p align="center">
-    <img src="https://github.com/rajkowski/accounts-and-balances/blob/main/docs/assets/accounts-and-balances-app-icon.png" alt="Accounts and Balances App Icon" width="100" height="100">
+    <img src="https://github.com/rajkowski/accounts-and-balances/blob/main/docs/assets/accounts-and-balances-devices.png" alt="Accounts and Balances Screens">
 </p>
 
 A fresh take on privately tracking your accounts and balances.
